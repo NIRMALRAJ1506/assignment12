@@ -1,0 +1,7 @@
+C:\Mphasis dot net\Day 7\Assignment 12\Assignment 12\bin\Debug\Assignment 12.exe.config
+C:\Mphasis dot net\Day 7\Assignment 12\Assignment 12\bin\Debug\Assignment 12.exe
+C:\Mphasis dot net\Day 7\Assignment 12\Assignment 12\bin\Debug\Assignment 12.pdb
+C:\Mphasis dot net\Day 7\Assignment 12\Assignment 12\obj\Debug\Assignment 12.csproj.AssemblyReference.cache
+C:\Mphasis dot net\Day 7\Assignment 12\Assignment 12\obj\Debug\Assignment 12.csproj.CoreCompileInputs.cache
+C:\Mphasis dot net\Day 7\Assignment 12\Assignment 12\obj\Debug\Assignment 12.exe
+C:\Mphasis dot net\Day 7\Assignment 12\Assignment 12\obj\Debug\Assignment 12.pdb
